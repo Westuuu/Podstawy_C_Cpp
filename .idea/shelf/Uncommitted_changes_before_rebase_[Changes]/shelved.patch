@@ -1,0 +1,150 @@
+Index: lista1/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-28T22-30-30-0696.json
+===================================================================
+diff --git a/lista1/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-28T22-30-30-0696.json b/lista1/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-28T22-30-30-0696.json
+deleted file mode 100644
+--- a/lista1/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-28T22-30-30-0696.json	(revision 60e50bbbd3edf5af26fcbe5099fd4a8584ee3f84)
++++ /dev/null	(revision 60e50bbbd3edf5af26fcbe5099fd4a8584ee3f84)
+@@ -1,108 +0,0 @@
+-{
+-	"cmake" : 
+-	{
+-		"generator" : 
+-		{
+-			"multiConfig" : false,
+-			"name" : "Ninja"
+-		},
+-		"paths" : 
+-		{
+-			"cmake" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake",
+-			"cpack" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cpack",
+-			"ctest" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/ctest",
+-			"root" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27"
+-		},
+-		"version" : 
+-		{
+-			"isDirty" : false,
+-			"major" : 3,
+-			"minor" : 27,
+-			"patch" : 8,
+-			"string" : "3.27.8",
+-			"suffix" : ""
+-		}
+-	},
+-	"objects" : 
+-	[
+-		{
+-			"jsonFile" : "codemodel-v2-c24fff15fecb3d1c5314.json",
+-			"kind" : "codemodel",
+-			"version" : 
+-			{
+-				"major" : 2,
+-				"minor" : 6
+-			}
+-		},
+-		{
+-			"jsonFile" : "cache-v2-740207807001a993c998.json",
+-			"kind" : "cache",
+-			"version" : 
+-			{
+-				"major" : 2,
+-				"minor" : 0
+-			}
+-		},
+-		{
+-			"jsonFile" : "cmakeFiles-v1-5345ec7ea9ddae1f1250.json",
+-			"kind" : "cmakeFiles",
+-			"version" : 
+-			{
+-				"major" : 1,
+-				"minor" : 0
+-			}
+-		},
+-		{
+-			"jsonFile" : "toolchains-v1-bb57840159693364638b.json",
+-			"kind" : "toolchains",
+-			"version" : 
+-			{
+-				"major" : 1,
+-				"minor" : 0
+-			}
+-		}
+-	],
+-	"reply" : 
+-	{
+-		"cache-v2" : 
+-		{
+-			"jsonFile" : "cache-v2-740207807001a993c998.json",
+-			"kind" : "cache",
+-			"version" : 
+-			{
+-				"major" : 2,
+-				"minor" : 0
+-			}
+-		},
+-		"cmakeFiles-v1" : 
+-		{
+-			"jsonFile" : "cmakeFiles-v1-5345ec7ea9ddae1f1250.json",
+-			"kind" : "cmakeFiles",
+-			"version" : 
+-			{
+-				"major" : 1,
+-				"minor" : 0
+-			}
+-		},
+-		"codemodel-v2" : 
+-		{
+-			"jsonFile" : "codemodel-v2-c24fff15fecb3d1c5314.json",
+-			"kind" : "codemodel",
+-			"version" : 
+-			{
+-				"major" : 2,
+-				"minor" : 6
+-			}
+-		},
+-		"toolchains-v1" : 
+-		{
+-			"jsonFile" : "toolchains-v1-bb57840159693364638b.json",
+-			"kind" : "toolchains",
+-			"version" : 
+-			{
+-				"major" : 1,
+-				"minor" : 0
+-			}
+-		}
+-	}
+-}
+Index: lista1/cmake-build-debug/Testing/Temporary/LastTest.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Start testing: Mar 28 23:46 CET\n----------------------------------------------------------\nEnd testing: Mar 28 23:46 CET\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lista1/cmake-build-debug/Testing/Temporary/LastTest.log b/lista1/cmake-build-debug/Testing/Temporary/LastTest.log
+--- a/lista1/cmake-build-debug/Testing/Temporary/LastTest.log	(revision 60e50bbbd3edf5af26fcbe5099fd4a8584ee3f84)
++++ b/lista1/cmake-build-debug/Testing/Temporary/LastTest.log	(date 1711666089971)
+@@ -1,3 +1,3 @@
+-Start testing: Mar 28 23:46 CET
++Start testing: Mar 28 23:48 CET
+ ----------------------------------------------------------
+-End testing: Mar 28 23:46 CET
++End testing: Mar 28 23:48 CET
+Index: lista1/cmake-build-debug/.ninja_log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># ninja log v5\n0\t244\t1711663773395544191\tCMakeFiles/zad1_2.dir/zad1_2.cpp.o\tb96de82fbb15d940\n0\t30\t1711664653526730732\tCMakeFiles/lista1i2.dir/zad1_1.cpp.o\tfd4adafedbf115d6\n30\t69\t1711664653565772239\tlista1i2\tc2e852373a32f061\n245\t277\t1711663773430425040\tzad1_2\t1e6d49b71a31284d\n0\t389\t1711665045391894616\tCMakeFiles/zad1a.dir/Users/adam/CLionProjects/Podstawy_C_C++/lista3/zad1a.cpp.o\te52ddcb7e1c4bafd\n389\t422\t1711665045426021237\tzad1a\tb0ae2651abea03f9\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lista1/cmake-build-debug/.ninja_log b/lista1/cmake-build-debug/.ninja_log
+--- a/lista1/cmake-build-debug/.ninja_log	(revision 60e50bbbd3edf5af26fcbe5099fd4a8584ee3f84)
++++ b/lista1/cmake-build-debug/.ninja_log	(date 1711666089708)
+@@ -1,7 +1,7 @@
+ # ninja log v5
+ 0	244	1711663773395544191	CMakeFiles/zad1_2.dir/zad1_2.cpp.o	b96de82fbb15d940
++245	277	1711663773430425040	zad1_2	1e6d49b71a31284d
+ 0	30	1711664653526730732	CMakeFiles/lista1i2.dir/zad1_1.cpp.o	fd4adafedbf115d6
+ 30	69	1711664653565772239	lista1i2	c2e852373a32f061
+-245	277	1711663773430425040	zad1_2	1e6d49b71a31284d
+ 0	389	1711665045391894616	CMakeFiles/zad1a.dir/Users/adam/CLionProjects/Podstawy_C_C++/lista3/zad1a.cpp.o	e52ddcb7e1c4bafd
+ 389	422	1711665045426021237	zad1a	b0ae2651abea03f9

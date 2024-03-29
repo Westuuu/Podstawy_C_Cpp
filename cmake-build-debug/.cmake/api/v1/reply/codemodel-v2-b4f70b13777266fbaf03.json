@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lista1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_1-Debug-56922917240da7c99db2.json",
+					"name" : "zad1_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_2-Debug-fbc65c80e3e6c7eb8630.json",
+					"name" : "zad1_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_3a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_3a-Debug-96ebdc00cfcf5974eea9.json",
+					"name" : "zad1_1_3a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_3b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_3b-Debug-e5c5c5732aede350786e.json",
+					"name" : "zad1_1_3b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_3c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_3c-Debug-bb7836ace1cda8717907.json",
+					"name" : "zad1_1_3c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_3d-Debug-b3febf9a4ca6d22a69d4.json",
+					"name" : "zad1_1_3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1_1_dodatkowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1_1_dodatkowe-Debug-21435d791ee8c69e8f74.json",
+					"name" : "zad1_1_dodatkowe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_1_1-Debug-e380aa939c6c5ed58c78.json",
+					"name" : "zad2_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3_1a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3_1a-Debug-c0a71027a4ec6492c373.json",
+					"name" : "zad3_1a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3_1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3_1b-Debug-ddbaa6c17478c5a136f1.json",
+					"name" : "zad3_1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3_1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3_1c-Debug-4a6b4da817f7670a9073.json",
+					"name" : "zad3_1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3_1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3_1d-Debug-bf00927426f189d8da5d.json",
+					"name" : "zad3_1d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad3_dodatkowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad3_dodatkowe-Debug-0fd48df88b62e6adcd1a.json",
+					"name" : "zad3_dodatkowe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1a-Debug-fe56d395d03efee35d98.json",
+					"name" : "zad4_1a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1b-Debug-9e8de5dde7e453635879.json",
+					"name" : "zad4_1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1c-Debug-6c68f0f9a3db1729059c.json",
+					"name" : "zad4_1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1d-Debug-0241f04106822f9713ec.json",
+					"name" : "zad4_1d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1e::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1e-Debug-743a6fa8ae646959686f.json",
+					"name" : "zad4_1e",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1fa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1fa-Debug-e06a03fca689c68ce9d8.json",
+					"name" : "zad4_1fa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_1fb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_1fb-Debug-3b68f8affb58f6b4f0c0.json",
+					"name" : "zad4_1fb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad4_dodatkowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad4_dodatkowe-Debug-ffdfda221b82a5a44f58.json",
+					"name" : "zad4_dodatkowe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5_1a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5_1a-Debug-11aa2a1526cd6e48c782.json",
+					"name" : "zad5_1a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5_1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5_1b-Debug-add3da0ca256fac0f60e.json",
+					"name" : "zad5_1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5_1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5_1c-Debug-99fe4578334a0104302e.json",
+					"name" : "zad5_1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad5_1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad5_1d-Debug-f6b3276b0e267c31a3be.json",
+					"name" : "zad5_1d",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adam/CLionProjects/Podstawy C:C++/cmake-build-debug",
+		"source" : "/Users/adam/CLionProjects/Podstawy C:C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

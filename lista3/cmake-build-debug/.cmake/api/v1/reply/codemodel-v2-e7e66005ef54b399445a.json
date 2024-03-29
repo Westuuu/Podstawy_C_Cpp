@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lista3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dodatkowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dodatkowe-Debug-fb82d7dc47f57cc91cfe.json",
+					"name" : "dodatkowe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lista3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lista3-Debug-50e6bf72cadefe0b8f4b.json",
+					"name" : "lista3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1b-Debug-d7821d99f14da4273593.json",
+					"name" : "zad1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1c-Debug-186d513d37384be564c1.json",
+					"name" : "zad1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1d-Debug-347b63d8bbde42c79b75.json",
+					"name" : "zad1d",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adam/CLionProjects/Podstawy C:C++/lista3/cmake-build-debug",
+		"source" : "/Users/adam/CLionProjects/Podstawy C:C++/lista3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

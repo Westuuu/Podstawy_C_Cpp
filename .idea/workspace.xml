@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="lista1" targetName="zad4_1fb" />
+      <config projectName="lista1" targetName="zad4_1fa" />
+      <config projectName="lista1" targetName="zad3_dodatkowe" />
+      <config projectName="lista1" targetName="zad5_1a" />
+      <config projectName="lista1" targetName="zad1_1_3d" />
+      <config projectName="lista1" targetName="zad5_1c" />
+      <config projectName="lista1" targetName="zad3_1a" />
+      <config projectName="lista1" targetName="zad5_1b" />
+      <config projectName="lista1" targetName="zad1_1_3b" />
+      <config projectName="lista1" targetName="zad3_1b" />
+      <config projectName="lista1" targetName="zad1_1_3c" />
+      <config projectName="lista1" targetName="zad3_1c" />
+      <config projectName="lista1" targetName="zad5_1d" />
+      <config projectName="lista1" targetName="zad3_1d" />
+      <config projectName="lista1" targetName="zad1_1_3a" />
+      <config projectName="lista1" targetName="zad1_1_dodatkowe" />
+      <config projectName="lista1" targetName="zad1_1_2" />
+      <config projectName="lista1" targetName="zad1_1_1" />
+      <config projectName="lista1" targetName="zad4_1b" />
+      <config projectName="lista1" targetName="zad4_dodatkowe" />
+      <config projectName="lista1" targetName="zad4_1a" />
+      <config projectName="lista1" targetName="zad4_1d" />
+      <config projectName="lista1" targetName="zad4_1c" />
+      <config projectName="lista1" targetName="zad2_1_1" />
+      <config projectName="lista1" targetName="zad4_1e" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cdbbda1-25be-45ed-9846-bea0f8fc5913" name="Changes" comment="Commit #4">
+      <change beforePath="$PROJECT_DIR$/lista3" beforeDir="false" afterPath="$PROJECT_DIR$/lista3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista4" beforeDir="false" afterPath="$PROJECT_DIR$/lista4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Westuuu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b37060d8-3f2c-45b4-b04e-221e312a0c21" />
+        <option name="url" value="https://github.com/Westuuu/Podstawy-C-Cpp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eKs747fas1Q6rxapNZXc3Ms6x4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.lista1i2.executor": "Run",
+    "CMake Application.zad1_1_3a.executor": "Run",
+    "CMake Application.zad1_1_3d.executor": "Run",
+    "CMake Application.zad1_2.executor": "Run",
+    "CMake Application.zad1a.executor": "Run",
+    "CMake Application.zad5_1d.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/adam/CLionProjects/Podstawy C:C++",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.zad5_1d">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_3a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_3a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_3a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_3b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_3b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_3b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_3c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_3c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_3c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_3d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_3d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_1_dodatkowe" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad1_1_dodatkowe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad1_1_dodatkowe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad2_1_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad2_1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad2_1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_1a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad3_1a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad3_1a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_1b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad3_1b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad3_1b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_1c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad3_1c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad3_1c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_1d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad3_1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad3_1d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_dodatkowe" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad3_dodatkowe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad3_dodatkowe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1e" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1e" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1e">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1fa" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1fa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1fa">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_1fb" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_1fb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_1fb">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_dodatkowe" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad4_dodatkowe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad4_dodatkowe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_1a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad5_1a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad5_1a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_1b" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad5_1b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad5_1b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_1c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad5_1c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad5_1c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_1d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lista1" TARGET_NAME="zad5_1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lista1" RUN_TARGET_NAME="zad5_1d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.zad1_1_1" />
+      <item itemvalue="CMake Application.zad1_1_2" />
+      <item itemvalue="CMake Application.zad1_1_3a" />
+      <item itemvalue="CMake Application.zad1_1_3b" />
+      <item itemvalue="CMake Application.zad1_1_3c" />
+      <item itemvalue="CMake Application.zad1_1_3d" />
+      <item itemvalue="CMake Application.zad1_1_dodatkowe" />
+      <item itemvalue="CMake Application.zad2_1_1" />
+      <item itemvalue="CMake Application.zad3_1a" />
+      <item itemvalue="CMake Application.zad3_1b" />
+      <item itemvalue="CMake Application.zad3_1c" />
+      <item itemvalue="CMake Application.zad3_1d" />
+      <item itemvalue="CMake Application.zad3_dodatkowe" />
+      <item itemvalue="CMake Application.zad4_1a" />
+      <item itemvalue="CMake Application.zad4_1b" />
+      <item itemvalue="CMake Application.zad4_1c" />
+      <item itemvalue="CMake Application.zad4_1d" />
+      <item itemvalue="CMake Application.zad4_1e" />
+      <item itemvalue="CMake Application.zad4_1fa" />
+      <item itemvalue="CMake Application.zad4_1fb" />
+      <item itemvalue="CMake Application.zad4_dodatkowe" />
+      <item itemvalue="CMake Application.zad5_1a" />
+      <item itemvalue="CMake Application.zad5_1b" />
+      <item itemvalue="CMake Application.zad5_1c" />
+      <item itemvalue="CMake Application.zad5_1d" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cdbbda1-25be-45ed-9846-bea0f8fc5913" name="Changes" comment="" />
+      <created>1711664435036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711664435036</updated>
+      <workItem from="1711664508002" duration="642000" />
+      <workItem from="1711665170324" duration="743000" />
+      <workItem from="1711666008233" duration="1964000" />
+      <workItem from="1711668074590" duration="40000" />
+      <workItem from="1711668120537" duration="328000" />
+      <workItem from="1711668716491" duration="1000" />
+      <workItem from="1711668978686" duration="585000" />
+      <workItem from="1711669691758" duration="1221000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit #1">
+      <option name="closed" value="true" />
+      <created>1711666057977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711666057977</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit #2">
+      <option name="closed" value="true" />
+      <created>1711668172896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668172896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit #3">
+      <option name="closed" value="true" />
+      <created>1711668224305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668224305</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit #4">
+      <option name="closed" value="true" />
+      <created>1711670340228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711670340228</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="acd5957a-7ecb-4d9f-9a4e-c3f7af2d5f79" value="TOOL_WINDOW" />
+        <entry key="afe43041-b238-43c2-b197-1cfa86ff0a7f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="acd5957a-7ecb-4d9f-9a4e-c3f7af2d5f79">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/adam/CLionProjects/Podstawy C:C++/lista2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="afe43041-b238-43c2-b197-1cfa86ff0a7f">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lista3" />
+      <path value="$PROJECT_DIR$/lista4" />
+    </ignored-roots>
+    <MESSAGE value="Commit #1" />
+    <MESSAGE value="Commit #2" />
+    <MESSAGE value="Commit #3" />
+    <MESSAGE value="Commit #4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lista1/zad1_1_2.cpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

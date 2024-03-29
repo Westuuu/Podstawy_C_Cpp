@@ -1,0 +1,11 @@
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/lista1i2.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_2.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_3a.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_3b.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_3c.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_3d.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1_dodatkowe.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad1a.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/zad2_1_1.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/CLionProjects/Podstawy C:C++/lista1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

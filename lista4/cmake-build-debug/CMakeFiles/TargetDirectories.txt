@@ -1,0 +1,11 @@
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/lista4.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1b.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1c.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1d.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1e.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1fa.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1fb.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/zad1fa1.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/dodatkowe.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/CLionProjects/lista4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

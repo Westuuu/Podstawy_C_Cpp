@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lista2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lista2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lista2-Debug-b1dd7adb03fbcd524a86.json",
+					"name" : "lista2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_1b-Debug-015dfb1aa8ada0361104.json",
+					"name" : "zad2_1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_1c-Debug-da0122968cb5638b1b68.json",
+					"name" : "zad2_1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_1d-Debug-e328e06e32b84a565f9c.json",
+					"name" : "zad2_1d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_1e::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_1e-Debug-a911bdb33d8f7ff64e5c.json",
+					"name" : "zad2_1e",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad2_dodatkowe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad2_dodatkowe-Debug-0b57c7070a2603c920ab.json",
+					"name" : "zad2_dodatkowe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adam/CLionProjects/lista2/cmake-build-debug",
+		"source" : "/Users/adam/CLionProjects/lista2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
